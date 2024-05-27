@@ -1,0 +1,15 @@
+.BotonAñadir{
+  background-color: gray;
+  color: black;
+  font-size: 30px;
+  border-radius: 7%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  width: auto;
+  border: 5px solid black;
+  border-color: black;
+  line-height: 40px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

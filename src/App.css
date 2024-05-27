@@ -1,0 +1,36 @@
+.ContenedorPrincipal{
+    background-color: bisque;
+    border: 2px solid black;
+    margin: 4%;
+}
+.TituloAgenda{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size:  35px;
+    text-align: center;
+}
+.ContenedorTareas{
+    border: 1px solid black;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 15%;
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.insertar{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 40%;
+    background-color: white;
+    border: 2px solid black;
+
+
+}
+.Insertartexto{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+
+}
